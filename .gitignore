@@ -1,0 +1,3 @@
+# do not track this, temporary files created by Jekyll
+_site
+.jekyll-cache
