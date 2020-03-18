@@ -1,0 +1,5 @@
+# _config.yml
+
+markdown: redcarpet
+baseurl: 
+exclude: ['README.md']
